@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Test iScholar</string>
+    <string name="mainActivity_name">Jolie iScholar</string>
 </resources>
