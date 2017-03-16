@@ -1,4 +1,19 @@
 <resources>
-    <string name="app_name">Test iScholar</string>
-    <string name="mainActivity_name">Jo iScholar</string>
+    <string name="app_name">ServiceUt</string>
+    <string name="mainActivity_name">ServiceUt</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="text_welcome">Welcome to ServiceUt!</string>
+    <string name="text_AppDescription">ServiceUt is a service app....</string>
+    <string name="text_doingHeader">What are you doing?</string>
+    <string name="text_getInvolvedHeader">Want to get involved?</string>
+    <string name="button_getInvolved">Get involved</string>
+    <string name="button_services">Services</string>
+    <string name="button_trash">Taking the trash out</string>
+    <string name="button_grocery">Going to the grocery store</string>
+    <string name="button_laundry">Doing laundry</string>
+    <string name="button_driving">Driving somewhere</string>
+    <string name="button_organizations">Organizations</string>
+    <string name="button_Events">Events</string>
+    <string name="button_next">Next</string>
 </resources>
