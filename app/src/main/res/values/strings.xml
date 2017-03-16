@@ -3,8 +3,8 @@
     <string name="mainActivity_name">ServiceUt</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
-    <string name="text_welcome">Welcome to ServiceUt!</string>
-    <string name="text_AppDescription">ServiceUt is a service app....</string>
+    <string name="text_welcome">Welcome to ServiceUt</string>
+    <string name="text_AppDescription">The service app that allows you to embody Ut Prosim to benefit your fellow students and community organizations all in one location.</string>
     <string name="text_doingHeader">What are you doing?</string>
     <string name="text_getInvolvedHeader">Want to get involved?</string>
     <string name="button_getInvolved">Get involved</string>
@@ -16,4 +16,5 @@
     <string name="button_organizations">Organizations</string>
     <string name="button_Events">Events</string>
     <string name="button_next">Next</string>
+    <string name="text_buttonMain">Click on one of the buttons below to get started!</string>
 </resources>
